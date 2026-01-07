@@ -1,6 +1,6 @@
 <h1 align="center" id="title">FoodBox</h1>
 
-<h2>🧐 Features</h2>
+<h2>Features</h2>
 
 Here are some of the project's best features:
 
@@ -17,7 +17,7 @@ Here are some of the project's best features:
 *   Newsletter section
 *   Attractive footer with important links
  
-<h2>💻 Built with</h2>
+<h2>Built with</h2>
 
 Technologies used in the project:
 
