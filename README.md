@@ -1,4 +1,4 @@
-<h1 align="center" id="title">FoodBox</h1>
+<h1 id="title">FoodBox</h1>
 
 <h2>Features</h2>
 
